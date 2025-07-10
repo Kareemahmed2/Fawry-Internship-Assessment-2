@@ -3,3 +3,5 @@ Assumptions and Upgrades:
 2- Autowiring if we are using Spring boot or JNDI lookup/CDI if we are using Java EE would've been a great upgrade  
 3- The Strategy pattern was chosen foe implemenation as it was the most viable approach to segregate the different types of books while separating the concerns of the delivering approaches, setting it 
 according to the type of the book itself, the receipt printer could've had a template method for printing the receipt but I thought of that too late and time is not in my favour  
+  
+<img width="1665" height="906" alt="image" src="https://github.com/user-attachments/assets/8444421a-fe59-47fa-a67c-00b572d6f081" />
